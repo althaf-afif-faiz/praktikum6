@@ -43,7 +43,22 @@ Jika nama ditemukan dalam dictionary, data tersebut akan dihapus.
 ```
 Fungsi ini digunakan untuk mengubah data mahasiswa dengan memasukan nama data yang akan diubah.
 ```
+# Hasil Program 
 
+## Tambah Data
+![image](https://github.com/user-attachments/assets/51f7d6a9-52c0-4104-86f1-6c399ac20f9c)
+
+## Tampilkan Data
+![Screenshot 2024-12-02 200445](https://github.com/user-attachments/assets/f9dc999b-d09c-4f30-887d-0051b5e30b06)
+
+## Hapus Data
+![Screenshot 2024-12-02 200631](https://github.com/user-attachments/assets/0a65edee-e9a4-4f37-a018-3e9c1d01ee6e)
+
+## Ubah Data
+![Screenshot 2024-12-02 200900](https://github.com/user-attachments/assets/046518a6-4c03-491c-9913-3e4f9342cef7)
+
+# Flowchart 
+![Screenshot 2024-12-02 195645](https://github.com/user-attachments/assets/ec4477cf-96c3-474f-90b9-6d47539ebbf6)
 
 
 
